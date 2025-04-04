@@ -67,6 +67,6 @@ If you have any questions or suggestions:
 
 - Your Name: Vinodi Saumya
 - 📧 Email: vinodisaumya@gmail.com
-- 🌐 LinkedIn: 
+- 🌐 LinkedIn: linkedin.com/in/vinodanee
 
 ## 🧳 “Relax, Recharge, and Rejuvenate at StartDambulla Hotel.”
