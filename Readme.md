@@ -37,8 +37,6 @@ Welcome to the official repository for the **StartDambulla Hotel** website — a
 - `MongoDB` with `Mongoose`
 - `JWT` for secure login/authentication (if implemented)
 
-### 🤖 Chatbot:
-- Custom-built or integrated using Dialogflow / OpenAI API
 
 ---
 
@@ -54,21 +52,21 @@ Welcome to the official repository for the **StartDambulla Hotel** website — a
    git clone https://github.com/yourusername/startdambulla-hotel.git
 
 ## Setup backend:
-cd server
-npm install
-npm start
+- cd server
+- npm install
+- npm start
 
 ## Setup frontend:
-cd client
-npm install
-npm start
+- cd client
+- npm install
+- npm start
 
 ## 📧 Contact
 
 If you have any questions or suggestions:
 
-Your Name
-📧 Email: vinodisaumya@gmail.com
-🌐 LinkedIn: 
+- Your Name: Vinodi Saumya
+- 📧 Email: vinodisaumya@gmail.com
+- 🌐 LinkedIn: 
 
 ## 🧳 “Relax, Recharge, and Rejuvenate at StartDambulla Hotel.”
