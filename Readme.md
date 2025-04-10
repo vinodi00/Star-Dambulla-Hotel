@@ -49,7 +49,7 @@ Welcome to the official repository for the **StartDambulla Hotel** website — a
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/startdambulla-hotel.git
+   git clone https://github.com/vinodi00/Star-Dambulla-Hotel.git
 
 ## Setup backend:
 - cd server
